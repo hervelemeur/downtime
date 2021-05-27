@@ -4,6 +4,8 @@
 # All defaults values can be overriden per host basis
 hosts:
   # Example / test root domain
+  - name: overseer.sxd-platform.com
+    title: Overseer
   - name: google.com
     title: Google
   # Example / test url
