@@ -21,6 +21,7 @@ See [USAGE.md](/USAGE.md) for more informations.
 ## 🚥 Current status
 
 <!-- <downtime-status> -->
+![Overseer](/status/overseer.sxd-platform.com-443.svg)
 ![Google](/status/google.com-443.svg)
 ![Downtime repository](/status/github.com-lowlighter-downtime-443.svg)
 ![Google DNS](/status/8.8.8.8-53.svg)
